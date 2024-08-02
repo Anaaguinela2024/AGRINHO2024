@@ -1,16 +1,8 @@
 
-
-body{
-
-    background-color: #fff;
-   
 }
-
-.cabecalho{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
 }
+<<<<<<< HEAD
+
 
 .cabecalho-imagem{
 width: 200px;
@@ -58,3 +50,4 @@ align-items: center;
     max-width: 300px;
     border-radius: 10px;
 }
+>>>>>>> d0318267aa9c1264ac5e97d3ec02f495e1241556
